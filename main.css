@@ -9,3 +9,32 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#red{
+  border-top-color: #f00;
+}
+
+#orange {
+  border-top-color:orange;
+}
+
+#yellow {
+  border-top-color: yellow;
+}
+
+#Green {
+  border-top-color: green;
+}
+
+#Blue {
+  border-top-color:blue;
+}
+
+#Indigo {
+border-top-color:indigo;
+}
+
+
+#Violet {
+  border-top-color:violet;
+}
